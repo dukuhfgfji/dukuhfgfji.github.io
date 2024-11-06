@@ -21,8 +21,12 @@ redirect_from:
     If you're interested in discussing my work or potential collaborations, feel free to email me at zhehanli@zju.edu.cn
 </div>
 
+<br>
+
 Publications
 ======
+
+<br>
 
 <div style="display: flex; align-items: flex-start;">
     <img src="" alt="CREPES3" width="300" />
@@ -41,6 +45,8 @@ Publications
     </p>
 </div>
 
+<br>
+
 <div style="display: flex; align-items: flex-start;">
     <img src="" alt="ColAG" width="300" />
     <p style="margin-left: 20px;">
@@ -57,6 +63,8 @@ Publications
         <!-- We first extract traversable planes from 3D point clouds,based on the different types of traversable planes, we apply specific constraints to maximize the robot’s maneuverability. -->
     </p>
 </div>
+
+<br>
 
 <div style="display: flex; align-items: flex-start;">
     <img src="" alt="ColAG2" width="300" />
@@ -109,8 +117,12 @@ Publications
     </p>
 </div>
 
+<br>
+
 Skills
 ======
+
+<br>
 
 <div style="display: flex; align-items: flex-start;">
     <p style="margin-left: 20px;">
