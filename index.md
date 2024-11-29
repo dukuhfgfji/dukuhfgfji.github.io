@@ -21,6 +21,7 @@ If you're interested in discussing my work or potential collaborations, feel fre
 - **[Aug. 2024]** Our paper about collaborative navigation is published at [ICRA 2024](https://ieeexplore.ieee.org/abstract/document/10611264).
 - **[Jun. 2024]** Our paper about collaborative navigation is published at [RAL 2024](https://ieeexplore.ieee.org/abstract/document/10545578).
 - **[May. 2024]** Our paper about collaborative navigation is presented at ICRA 2024.
+- **[May. 2024]** Our paper about model predictive control is presented at ICRA 2024.
 - **[Dec. 2023]** Our paper about relative pose estimation is published at [IROS 2023](https://ieeexplore.ieee.org/abstract/document/10342523).
 - **[Oct. 2023]** Our paper about model predictive control is published at [RAL 2023](https://ieeexplore.ieee.org/abstract/document/10287548).
 - **[Oct. 2023]** Our paper about relative pose estimation is published at IROS 2023.
