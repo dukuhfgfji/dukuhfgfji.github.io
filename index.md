@@ -31,7 +31,7 @@ If you're interested in discussing my work or potential collaborations, feel fre
 - **[Oct. 2023]** Our paper about model predictive control is accepted at RAL.
 - **[Oct. 2023]** Our paper about relative pose estimation is presented at IROS 2023.
 - **[Sep. 2023]** Our paper about collaborative navigation is submitted at ICRA 2024.
-- **[Jun. 2024]** Our paper about model predictive control is submitted at RAL.
+- **[Jun. 2023]** Our paper about model predictive control is submitted at RAL.
 - **[Jun. 2023]** Our paper about relative pose estimation is accepted at IROS 2023.
 - **[Mar. 2023]** Our paper about relative pose estimation is submitted at IROS 2023.
 
