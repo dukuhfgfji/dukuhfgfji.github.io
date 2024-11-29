@@ -38,8 +38,8 @@ main:
 
   - title: "CREPES: Cooperative RElative Pose Estimation System"
     authors: Zhiren Xun*, Jian Huang*, <strong>Zhehan Li</strong>, Zhenjun Ying, Yingjian Wang, Cao Xu, Fei Gao, and Yanjun Cao
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+    conference_short: IROS
+    conference: The IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2302.01036
     page: https://fast-fire.github.io/CREPES/
     bibtex: https://ieeexplore.ieee.org/abstract/document/10342523
