@@ -1,12 +1,5 @@
 main:
 
-  - title: "CT-RIO: Non-Uniform B-spline based Continuous-Time Relative Inertial Odometry"
-    authors: Jiadong Lu*, <strong>Zhehan Li</strong>*, Tao Han, Chao Xu, Fei Gao, and Yanjun Cao
-    conference_short: RAL
-    conference: IEEE Robotics and Automation Letters <strong>(RAL)</strong>, 2025.
-    image: ./assets/img/teaser_example.png
-    notes: In Preparation
-
   - title: "CREPES: A Multi-Robot Bearing-Distance-Inertial Cooperative RElative Pose/state Estimation System"
     authors: <strong>Zhehan Li</strong>, Zheng Wang, Jiadong Lu, Zhiren Xun, Chao Xu, Fei Gao, and Yanjun Cao
     conference_short: TRO
@@ -24,6 +17,13 @@ main:
     bibtex: https://ieeexplore.ieee.org/abstract/document/10611264
     image: ./assets/img/teaser_example.png
     notes: Oral Presentation
+
+  - title: "CT-RIO: Non-Uniform B-spline based Continuous-Time Relative Inertial Odometry"
+    authors: Jiadong Lu*, <strong>Zhehan Li</strong>*, Tao Han, Chao Xu, Fei Gao, and Yanjun Cao
+    conference_short: RAL
+    conference: IEEE Robotics and Automation Letters <strong>(RAL)</strong>, 2025.
+    image: ./assets/img/teaser_example.png
+    notes: In Preparation
 
   - title: "Cost-effective Swarm Navigation System via Close Cooperation"
     authors: Nanhe Chen, <strong>Zhehan Li</strong>, Lun Quan, Xinwei Chen, Cao Xu, Fei Gao, and Yanjun Cao
