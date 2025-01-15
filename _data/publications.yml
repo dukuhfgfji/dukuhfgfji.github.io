@@ -16,7 +16,7 @@ main:
     page: https://fast-fire.github.io/ColAG/
     bibtex: https://ieeexplore.ieee.org/abstract/document/10611264
     image: ./assets/img/teaser_example.png
-    notes: Oral Presentation
+    # notes: Oral Presentation
 
   - title: "CT-RIO: Non-Uniform B-spline based Continuous-Time Relative Inertial Odometry"
     authors: Jiadong Lu*, <strong>Zhehan Li</strong>*, Tao Han, Chao Xu, Fei Gao, and Yanjun Cao
@@ -41,7 +41,7 @@ main:
     page: https://fast-fire.github.io/CoNi-MPC/
     bibtex: https://ieeexplore.ieee.org/abstract/document/10287548
     image: ./assets/img/teaser_example.png
-    notes: Oral Presentation
+    # notes: Oral Presentation
 
   - title: "CREPES: Cooperative RElative Pose Estimation System"
     authors: Zhiren Xun*, Jian Huang*, <strong>Zhehan Li</strong>, Zhenjun Ying, Yingjian Wang, Cao Xu, Fei Gao, and Yanjun Cao
